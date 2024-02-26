@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/votien/WorkSpace/NodeJs_System/src/logs/.e9d226725b279d512e22a00fb24cc849a882390f-audit.json",
+    "files": [
+        {
+            "date": 1708864851240,
+            "name": "/home/votien/WorkSpace/NodeJs_System/src/logs/app-2024-02-25.log",
+            "hash": "c7a34e74b0ea4318412d73018fa6766a3cd8868bb95f7d518da2ba29d8698c73"
+        }
+    ],
+    "hashType": "sha256"
+}
