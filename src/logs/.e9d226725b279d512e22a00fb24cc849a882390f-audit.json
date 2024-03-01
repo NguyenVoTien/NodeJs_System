@@ -9,6 +9,11 @@
             "date": 1708864851240,
             "name": "/home/votien/WorkSpace/NodeJs_System/src/logs/app-2024-02-25.log",
             "hash": "c7a34e74b0ea4318412d73018fa6766a3cd8868bb95f7d518da2ba29d8698c73"
+        },
+        {
+            "date": 1709208265040,
+            "name": "/home/votien/WorkSpace/NodeJs_System/src/logs/app-2024-02-29.log",
+            "hash": "90c2371196d311d94d95da90b922f84198c8815b7739d4ca008f79e936b03237"
         }
     ],
     "hashType": "sha256"
