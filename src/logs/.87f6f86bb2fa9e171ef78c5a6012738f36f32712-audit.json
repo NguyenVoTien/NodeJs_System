@@ -44,6 +44,11 @@
             "date": 1710156088679,
             "name": "/home/votien/WorkSpace/NodeJs_System/src/logs/app-2024-03-11.info.log",
             "hash": "a2641eba30150433d110ef0c6e29cd0dd167d6ce0fd33825c20d45d09f0a537a"
+        },
+        {
+            "date": 1710246654262,
+            "name": "/home/votien/WorkSpace/NodeJs_System/src/logs/app-2024-03-12.info.log",
+            "hash": "50dc49096e11691c0add8d2f2ae5a3503543ca803a986bcf3c6e7f5bcd068eaa"
         }
     ],
     "hashType": "sha256"
