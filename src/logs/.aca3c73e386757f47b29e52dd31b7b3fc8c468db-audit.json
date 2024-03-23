@@ -6,26 +6,6 @@
     "auditLog": "/home/votien/WorkSpace/NodeJs_System/src/logs/.aca3c73e386757f47b29e52dd31b7b3fc8c468db-audit.json",
     "files": [
         {
-            "date": 1709558683932,
-            "name": "/home/votien/WorkSpace/NodeJs_System/src/logs/app-2024-03-04.error.log",
-            "hash": "7481ba851f73ff4d23ee3477b93aeeb695edc26b21be043adb92fff5552e76bf"
-        },
-        {
-            "date": 1709741843438,
-            "name": "/home/votien/WorkSpace/NodeJs_System/src/logs/app-2024-03-06.error.log",
-            "hash": "18ceb48a727e2855fee685446bc481a69660136ca69fd6cb71b06c1f130d185a"
-        },
-        {
-            "date": 1709813124817,
-            "name": "/home/votien/WorkSpace/NodeJs_System/src/logs/app-2024-03-07.error.log",
-            "hash": "1978ff65806ad7f695c73a7c0c41fd7d4b5347735fabe2384d204ccc311cf6a4"
-        },
-        {
-            "date": 1709986309737,
-            "name": "/home/votien/WorkSpace/NodeJs_System/src/logs/app-2024-03-09.error.log",
-            "hash": "ddd41b941792f1111e49c3ee0802bc8de4cf016aff8223a4b9066065cb48202a"
-        },
-        {
             "date": 1710073031275,
             "name": "/home/votien/WorkSpace/NodeJs_System/src/logs/app-2024-03-10.error.log",
             "hash": "a74bcca3e256ced96de08ad199bb922bb2b28367a0afc06294202d810a410a78"
@@ -49,6 +29,11 @@
             "date": 1710694575556,
             "name": "/home/votien/WorkSpace/NodeJs_System/src/logs/app-2024-03-17.error.log",
             "hash": "0feda8371d30ff23a6eacb39367551223d456e7dd4dc527401e9ff16ac66ece5"
+        },
+        {
+            "date": 1711197814914,
+            "name": "/home/votien/WorkSpace/NodeJs_System/src/logs/app-2024-03-23.error.log",
+            "hash": "f2a024997426cbaed55acc1d7ffdbb9652f249274d3a0454c3cdfd77b8b8c315"
         }
     ],
     "hashType": "sha256"
